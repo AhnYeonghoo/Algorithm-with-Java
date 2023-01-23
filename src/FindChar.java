@@ -22,6 +22,11 @@ public class FindChar {
                 answer++;
             }
         }
+//        for(char x : str.toCharArray()) {
+//            if (x == t) {
+//                answer++;
+//            }
+//        }
 
         return answer;
     }
