@@ -1,5 +1,6 @@
 package programmers.분수의_덧셈;
 
+// 미해결
 public class Solution {
     public int[] solution(int numer1, int denom1, int numer2, int denom2) {
         int[] answer = {};
